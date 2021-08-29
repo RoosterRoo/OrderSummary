@@ -29,7 +29,7 @@ Building an Order Summary page
 ### Links
 
 - Solution URL: [Order Summary](https://github.com/RoosterRoo/OrderSummary)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Github Pages](https://roosterroo.github.io/OrderSummary/)
 
 ## My process
 
@@ -60,7 +60,7 @@ topic in Semantic UI.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Sayan De](https://www.linkedin.com/in/sayan-de-b42244b7/)
 - Frontend Mentor - [@RoosterRoo](https://www.frontendmentor.io/profile/RoosterRoo)
 
 ## Acknowledgments

@@ -1,5 +1,8 @@
 import React from 'react'
 
+import illustration from '../illustration-hero.svg'
+import icon from '../icon-music.svg'
+
 const OrderSummary = () => {
     return (
         <div className="container">
@@ -10,7 +13,7 @@ const OrderSummary = () => {
                         width: "25vw"
                         }}>
                 <div className="image">
-                    <img src="/images/illustration-hero.svg" alt="Illustration"/>
+                    <img src={illustration} alt="Illustration"/>
                 </div>
                 <div className="content">
                     <div className="center aligned header" 
@@ -26,7 +29,7 @@ const OrderSummary = () => {
                         <div className="ui large message" style={{padding: "5px 15px"}}>
                             <div className="ui middle aligned grid">
                                 <div className="four wide column">
-                                    <img src="/images/icon-music.svg" alt="Music"/>
+                                    <img src={icon} alt="Music"/>
                                 </div>
                                 <div className="eight wide column">
                                 <p style={{fontWeight: "900"}}>Annual Plan</p>
