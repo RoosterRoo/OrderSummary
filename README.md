@@ -24,11 +24,11 @@ Building an Order Summary page
 
 ### Screenshot
 
-![Order Summary Screenshot](./order-summary-screenshot.jpg)
+![Order Summary Screenshot](./order-summary-screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Order Summary](https://github.com/RoosterRoo/OrderSummary)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
